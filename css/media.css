@@ -1,0 +1,973 @@
+/* extra large device*/
+@media(min-width:1200px) and (max-width:1399.98px){
+    .banner-text p {
+        line-height: 24.5px;
+        padding-right: 120px;
+        font-size: 14px;
+    }
+    .banner-text h1 {
+        font-size: 50px;
+    }
+    .biography-img {
+        margin-top: 35px;
+    }
+    .bio-heading h2 {
+        line-height: 0px;
+        margin-top: 130px;
+        margin-bottom: 28px;
+    }
+    .bio-details {
+        margin: 10px 0;
+    }
+    #biography {
+        padding-bottom: 25px;
+    }
+    .service-head {
+        margin-top: 35px;
+        margin-bottom: 15px;
+    }
+    .service-footer {
+        margin-bottom: 25px;
+    }
+    .certification-heading h2 {
+        padding-bottom: 15px;
+    }
+    #certification {
+        padding-top: 35px;
+        padding-bottom: 25px;
+    }
+    #certification {
+        padding-top: 35px;
+    }
+    .testimonials-details {
+        padding-top: 35px;
+        padding-bottom: 0px;
+    }
+    #skills {
+        padding-bottom: 25px;
+    }
+    .education-details {
+        margin-top: 15px;
+        padding-left: 30px;
+        padding-top: 27px;
+    }
+    .skills-py {
+        margin-top: 70px;
+    }
+    #blog {
+        padding-top: 35px;
+        padding-bottom: 25px;
+    }
+    .touch-heading p {
+        font-size: 28px;
+        padding-bottom: 0px;
+        padding-right: 70px;
+        line-height: 29px;
+    }
+    .touch-info a {
+        font-size: 15px;
+        line-height: 20px;
+    }
+}
+/* large device*/
+@media(min-width:992px) and (max-width:1199.98px) {
+    .banner-text {
+        padding-top: 219px;
+        padding-left: 0px;
+    }
+    .banner-text h1 {
+        font-size: 47px;
+    }
+    .banner-text p {
+        padding-right: 146px;
+    }
+    .biography-img {
+        width: 360px;
+        height: 360px;
+        margin-top: 60px;
+    }
+    .biography-img img {
+        width: 360px;
+        height: 360px;
+    }
+    .biography-text p {
+        margin-left: 113px;
+    }
+    .biography-text h3 {
+        margin-left: 80px;
+    }
+    .bio-heading h2 {
+        margin-top: 60px;
+        margin-bottom: 24px;
+    }
+    .bio-details {
+        margin: -10px 0px 25px 0;
+    }
+    .service-head {
+        margin-top: 30px;
+        margin-bottom: 15px;
+    }
+    .service-footer {
+        margin-bottom: 25px;
+    }
+    #certification {
+        padding-top: 35px;
+        padding-bottom: 25px;
+    }
+    #Portfolio {
+        padding-top: 35px;
+        padding-bottom: 25px;
+    }
+    .Portfolio-heading h2 {
+        padding-bottom: 8px;
+    }
+    #experience {
+        padding-top: 35px;
+        padding-bottom: 25px;
+    }
+    .experience-heading h2 {
+        padding-bottom: 0px;
+    }
+    .counter-item h3 {
+        padding-top: 35px;
+        padding-bottom: 25px;
+    }
+    .counter-item p {
+        padding-bottom: 25px;
+    }
+    #testimonials {
+        padding-top: 35px;
+        padding-bottom: 25px;
+    }
+    .testimonials-details {
+        padding-top: 14px;
+        padding-bottom: 0px;
+    }
+    .testimonials-details p {
+        font-size: 14px;
+    }
+    .certi-card p {
+        font-size: 12px;
+        line-height: 20px;
+    }
+    .certi-card h5 {
+        font-size: 13px;
+        font-weight: 400;
+        padding-bottom: 0px;
+    }
+    .education-details {
+        margin-top: 0px;
+    }
+    .skills-py {
+        margin-top: 100px;
+    }
+    #blog {
+        padding-top: 35px;
+        padding-bottom: 25px;
+    }
+    .touch-heading p {
+        padding-right: 13px;
+        padding-bottom: 0px;
+    }
+    .touch-text p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .touch-info a {
+        font-size: 14px;
+        line-height: 20px;
+    }
+}
+/* Medium device*/
+@media(min-width:768px) and (max-width:991.98px) {
+    .navbar-toggler i{
+        font-size: 25px;
+        color: #fff;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    #navbarSupportedContent {
+        text-align: center;
+    }
+    .navbar-nav {
+        background: rgb(0, 0, 0);
+        margin-top: 15px;
+        width: 200px;
+    }
+    
+    .navbar .navbar-nav .nav-link {
+        padding-left: 0px;
+        line-height: 40px;
+        text-align: center;
+    }
+    .banner-text {
+        padding-top: 170px;
+        padding-left: 0px;
+    }
+    .banner-text h1 {
+        font-size: 28px;
+    }
+    .banner-text p {
+        line-height: 20.5px;
+        padding-right: 0px;
+    }
+    .cv {
+        padding: 6px 6px;
+        font-size: 13px;
+        font-weight: 500;
+    }
+    #biography {
+        padding-bottom: 35px;
+    }
+    .biography-img {
+        width: 295px;
+        height: 295px;
+        margin-top: 40px;
+        margin-left: 200px;
+    }
+    .biography-img img {
+        width: 295px;
+        height: 295px;
+    }
+    .biography-text {
+        padding-top: 23px;
+        margin-left: 200px;
+    }
+    .biography-text p {
+        margin-left: 80px;
+    }
+    .biography-text h3 {
+        font-size: 25px;
+        margin-left: 60px;
+    }
+    .bio-heading h2 {
+        font-size: 25px;
+        line-height: 0px;
+        margin-top: 50px;
+        margin-bottom: 28px;
+    }
+    .bio-details {
+        margin: 0px 0;
+    }
+    #service {
+        padding-top: 25px;
+    }
+    .card-body {
+        padding: 26px 1rem;
+    }
+    .service-head {
+        margin-top: 25px;
+        margin-bottom: 25px;
+    }
+    .service-head h2 {
+        font-size: 25px;
+        line-height: 15px;
+    }
+    .service-icon i {
+        padding-top: 30px;
+        padding-left: 26px;
+    }
+    .service-heading h3 {
+        padding-left: 25px;
+        padding-top: 20px;
+        padding-bottom: 3px;
+    }
+    .service-text p {
+        line-height: 24px;
+        font-size: 16px;
+        padding-left: 25px;
+        padding-bottom: 20px;
+    }
+    .service-footer p {
+        font-weight: 400;
+        line-height: 24px;
+        font-size: 16px;
+    }
+    .service-footer {
+        margin-bottom: 25px;
+    }
+    #certification {
+        padding-top: 35px;
+        padding-bottom: 35px;
+    }
+    .certification-heading h2 {
+        padding-bottom: 23px;
+        font-size: 25px;
+    }
+    .Portfolio-heading h2 {
+        font-size: 26px;
+        padding-bottom: 14px;
+    }
+    #Portfolio {
+        padding-top: 26px;
+    }
+    .port-btn .btn {
+        padding: 4px;
+        font-size: 12px;
+        margin: 0px 10px;
+    }
+    #experience {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .experience-heading h2 {
+        font-size: 25px;
+        padding-bottom: 0px;
+    }
+    .experience-text {
+        padding: 25px 10px 0px 25px;
+    }
+    .experience-details::after {
+        top: 0px;
+        height: 2px;
+        width: 90%;
+        left: -93px;
+    }
+    .experience-text h4 {
+        font-size: 16px;
+        padding-bottom: 3px;
+    }
+    .experience-text h6 {
+        font-size: 12px;
+        padding-bottom: 3px;
+    }
+    .experience-details {
+        padding: 38px 0px 10px 10px;
+    }
+    .experience-card {
+        margin-top: 10px;
+    }
+    .counter-item h3 {
+        font-size: 26px;
+        padding-top: 15px;
+        padding-bottom: 7px;
+    }
+    .counter-item p {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 23px;
+        font-weight: 400;
+        color: #fff;
+        padding-bottom: 25px;
+    }
+    .testimonials-img img{
+        padding-left: 0px;
+    }
+    
+    .testimonials-details {
+        padding-top: 20px;
+    }
+    #testimonials {
+        padding-bottom: 15px;
+    }
+    #skills {
+        padding-top: 22px;
+        padding-bottom: 15px;
+    }
+    .education-details {
+        margin-top: 0px;
+        padding-left: 25px;
+    }
+    .skills-py {
+        margin-top: 35px;
+    }
+    .skills-item1 p {
+        left: 80%;
+    }
+    .skills-item2 p {
+        left: 80%;
+    }
+    .skills-item3 p {
+        left: 80%;
+    }
+    .skills-item4 p {
+        left: 80%;
+    }
+    .progress-main {
+        padding-bottom: 20px;
+    }
+    .blog-heading h2 {
+        font-size: 25px;
+        padding-bottom: 2px;
+    }
+    .blog-text h4 {
+        font-size: 12px;
+        padding-top: 11px;
+    }
+    .blog-text p a {
+        font-size: 15px;
+        padding-top: 0px;
+        line-height: 26px;
+    }
+    .blog-item {
+        margin-top: 10px;
+    }
+    #blog {
+        padding-top: 30px;
+        padding-bottom: 15px;
+    }
+    #touch {
+        padding-top: 28px;
+        padding-bottom: 15px;
+    }
+    .touch-heading p {
+        font-size: 25px;
+        padding-bottom: 0px;
+        padding-right: 15px;
+        line-height: 28px;
+    }
+    .touch-info a {
+        font-size: 12px;
+        line-height: 17px;
+    }
+    .touch-info i {
+        font-size: 20px;
+    }
+    .form-heading h4 {
+        font-size: 18px;
+        padding-bottom: 20px;
+        padding-top: 28px;
+    }
+    .map {
+        padding-top: 21px;
+    }
+    iframe{
+        width: 100%;
+        height: 280px;
+    }
+    #footer {
+        padding-top: 11px;
+        padding-bottom: 10px;
+    }
+    .social-icon i {
+        font-size: 21px;
+        padding-left: 11px;
+    }
+    .copyright-text p {
+        font-size: 15px;
+        line-height: 20px;
+        padding-top: 8px;
+    }
+}
+/* small device*/
+@media(min-width:576px) and (max-width:767.98px){
+    .navbar-toggler i{
+        font-size: 25px;
+        color: #fff;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    #navbarSupportedContent {
+        background: rgb(0, 0, 0);
+        text-align: center;
+    }
+    .banner-text {
+        padding-top: 170px;
+        padding-left: 0px;
+    }
+    .banner-text h1 {
+        font-size: 28px;
+    }
+    .banner-text p {
+        line-height: 20.5px;
+        padding-right: 0px;
+    }
+    .cv {
+        padding: 6px 6px;
+        font-size: 13px;
+        font-weight: 500;
+    }
+    #biography {
+        padding-bottom: 35px;
+    }
+    .biography-img {
+        width: 295px;
+        height: 295px;
+        margin-top: 40px;
+        margin-left: 100px;
+    }
+    .biography-img img {
+        width: 295px;
+        height: 295px;
+    }
+    .biography-text {
+        padding-top: 23px;
+        margin-left: 100px;
+    }
+    .biography-text p {
+        margin-left: 80px;
+    }
+    .biography-text h3 {
+        font-size: 25px;
+        margin-left: 60px;
+    }
+    .bio-heading h2 {
+        font-size: 25px;
+        line-height: 0px;
+        margin-top: 50px;
+        margin-bottom: 28px;
+    }
+    .bio-details {
+        margin: 0px 0;
+    }
+    .service-head {
+        margin-top: 25px;
+        margin-bottom: 25px;
+    }
+    .service-head h2 {
+        font-size: 25px;
+        line-height: 15px;
+    }
+    .service-icon i {
+        padding-top: 30px;
+        padding-left: 26px;
+    }
+    .service-heading h3 {
+        padding-left: 25px;
+        padding-top: 20px;
+        padding-bottom: 3px;
+    }
+    .service-text p {
+        line-height: 24px;
+        font-size: 16px;
+        padding-left: 25px;
+        padding-bottom: 20px;
+    }
+    .service-footer p {
+        font-weight: 400;
+        line-height: 24px;
+        font-size: 16px;
+    }
+    .service-footer {
+        margin-bottom: 25px;
+    }
+    #certification {
+        padding-top: 35px;
+        padding-bottom: 35px;
+    }
+    .certification-heading h2 {
+        padding-bottom: 23px;
+        font-size: 25px;
+    }
+    .Portfolio-heading h2 {
+        font-size: 26px;
+        padding-bottom: 14px;
+    }
+    #Portfolio {
+        padding-top: 26px;
+    }
+    .port-btn .btn {
+        padding: 4px;
+        font-size: 12px;
+        margin: 0px 10px;
+    }
+    #experience {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .experience-heading h2 {
+        font-size: 25px;
+        padding-bottom: 0px;
+    }
+    .experience-text {
+        padding: 25px 10px 0px 25px;
+    }
+    .experience-details::after {
+        top: 16px;
+        height: 2px;
+        width: 75%;
+        left: 60px;
+    }
+    .experience-text h4 {
+        font-size: 16px;
+        padding-bottom: 3px;
+    }
+    .experience-text h6 {
+        font-size: 12px;
+        padding-bottom: 3px;
+    }
+    .experience-details {
+        padding: 38px 0px 10px 10px;
+    }
+    .experience-card {
+        margin-top: 10px;
+    }
+    .counter-item h3 {
+        font-size: 26px;
+        padding-top: 15px;
+        padding-bottom: 7px;
+    }
+    .counter-item p {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 23px;
+        font-weight: 400;
+        color: #fff;
+        padding-bottom: 25px;
+    }
+    .testimonials-img img{
+        padding-left: 20px;
+    }
+    .testimonials-details {
+        padding-top: 20px;
+    }
+    #testimonials {
+        padding-bottom: 15px;
+    }
+    #skills {
+        padding-top: 22px;
+        padding-bottom: 15px;
+    }
+    .education-details {
+        margin-top: 0px;
+        padding-left: 25px;
+        padding-top: 20px;
+    }
+    .skills-py {
+        margin-top: 35px;
+    }
+    .skills-item1 p {
+        left: 80%;
+    }
+    .skills-item2 p {
+        left: 80%;
+    }
+    .skills-item3 p {
+        left: 80%;
+    }
+    .skills-item4 p {
+        left: 80%;
+    }
+    .progress-main {
+        padding-bottom: 20px;
+    }
+    .blog-heading h2 {
+        font-size: 25px;
+        padding-bottom: 2px;
+    }
+    .blog-text h4 {
+        font-size: 12px;
+        padding-top: 11px;
+    }
+    .blog-text p a {
+        font-size: 15px;
+        padding-top: 0px;
+        line-height: 26px;
+    }
+    .blog-item {
+        margin-top: 10px;
+    }
+    #blog {
+        padding-top: 30px;
+        padding-bottom: 15px;
+    }
+    #touch {
+        padding-top: 28px;
+        padding-bottom: 15px;
+    }
+    .touch-heading p {
+        font-size: 25px;
+        padding-bottom: 0px;
+        padding-right: 15px;
+        line-height: 28px;
+    }
+    .touch-info a {
+        font-size: 12px;
+        line-height: 17px;
+    }
+    .touch-info i {
+        font-size: 20px;
+    }
+    .form-heading h4 {
+        font-size: 18px;
+        padding-bottom: 20px;
+        padding-top: 28px;
+    }
+    .map {
+        padding-top: 21px;
+    }
+    iframe{
+        width: 100%;
+        height: 280px;
+    }
+    #footer {
+        padding-top: 11px;
+        padding-bottom: 10px;
+    }
+    .social-icon i {
+        font-size: 21px;
+        padding-left: 11px;
+    }
+    .copyright-text p {
+        font-size: 15px;
+        line-height: 20px;
+        padding-top: 8px;
+    }
+}
+/*###################################*/
+/* @media(max-width:480px){
+
+    .biography-img {
+        margin-left: 72px;
+    }
+    .biography-text {
+        margin-left: 89px;
+    }
+    .service-footer p {
+        padding-top: 16px;
+    }
+    .service-footer {
+        margin-bottom: 30px;
+    }
+    .experience-details::after {
+        width: 75%;
+    }
+} */
+/* extra small device*/
+@media(max-width:575.98px){
+    .navbar-toggler i{
+        font-size: 25px;
+        color: #fff;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    #navbarSupportedContent {
+        background: rgb(0, 0, 0);
+        text-align: center;
+    }
+    .banner-text {
+        padding-top: 170px;
+        padding-left: 0px;
+    }
+    .banner-text h1 {
+        font-size: 28px;
+    }
+    .banner-text p {
+        line-height: 20.5px;
+        padding-right: 0px;
+    }
+    .cv {
+        padding: 6px 6px;
+        font-size: 13px;
+        font-weight: 500;
+    }
+    .biography-img {
+        width: 295px;
+        height: 295px;
+        margin-top: 50px;
+    }
+    .biography-img img {
+        width: 295px;
+        height: 295px;
+    }
+    .biography-text {
+        padding-top: 23px;
+    }
+    .biography-text p {
+        margin-left: 80px;
+    }
+    .biography-text h3 {
+        font-size: 25px;
+        margin-left: 60px;
+    }
+    .bio-heading h2 {
+        font-size: 25px;
+        line-height: 0px;
+        margin-top: 50px;
+        margin-bottom: 28px;
+    }
+    .bio-details {
+        margin: 0px 0;
+    }
+    .service-head h2 {
+        font-size: 25px;
+        line-height: 15px;
+    }
+    .service-icon i {
+        padding-top: 30px;
+        padding-left: 26px;
+    }
+    .service-heading h3 {
+        padding-left: 25px;
+        padding-top: 20px;
+        padding-bottom: 3px;
+    }
+    .service-text p {
+        line-height: 24px;
+        font-size: 16px;
+        padding-left: 25px;
+        padding-bottom: 20px;
+    }
+    .service-footer p {
+        font-weight: 400;
+        line-height: 24px;
+        font-size: 16px;
+    }
+    .service-footer {
+        margin-bottom: 50px;
+    }
+    #certification {
+        padding-top: 35px;
+        padding-bottom: 35px;
+    }
+    .certification-heading h2 {
+        padding-bottom: 23px;
+        font-size: 25px;
+    }
+    .Portfolio-heading h2 {
+        font-size: 26px;
+        padding-bottom: 14px;
+    }
+    #Portfolio {
+        padding-top: 26px;
+    }
+    .port-btn .btn {
+        padding: 4px;
+        font-size: 12px;
+        margin: 0px 10px;
+    }
+    #experience {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .experience-heading h2 {
+        font-size: 25px;
+        padding-bottom: 0px;
+    }
+    .experience-text {
+        padding: 25px 10px 0px 25px;
+    }
+    .experience-details::after {
+        top: 16px;
+        height: 2px;
+        width: 50%;
+        left: 60px;
+    }
+    .experience-text h4 {
+        font-size: 16px;
+        padding-bottom: 3px;
+    }
+    .experience-text h6 {
+        font-size: 12px;
+        padding-bottom: 3px;
+    }
+    .experience-details {
+        padding: 38px 0px 10px 10px;
+    }
+    .experience-card {
+        margin-top: 10px;
+    }
+    .counter-item h3 {
+        font-size: 26px;
+        padding-top: 15px;
+        padding-bottom: 7px;
+    }
+    .counter-item p {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 23px;
+        font-weight: 400;
+        color: #fff;
+        padding-bottom: 25px;
+    }
+    .testimonials-img img{
+        padding-left: 20px;
+    }
+    .testimonials-details {
+        padding-top: 20px;
+    }
+    #testimonials {
+        padding-bottom: 15px;
+    }
+    #skills {
+        padding-top: 22px;
+        padding-bottom: 15px;
+    }
+    .education-details {
+        margin-top: 0px;
+        padding-left: 25px;
+        padding-top: 20px;
+    }
+    .skills-py {
+        margin-top: 35px;
+    }
+    .skills-item1 p {
+        left: 80%;
+    }
+    .skills-item2 p {
+        left: 80%;
+    }
+    .skills-item3 p {
+        left: 80%;
+    }
+    .skills-item4 p {
+        left: 80%;
+    }
+    .progress-main {
+        padding-bottom: 20px;
+    }
+    .blog-heading h2 {
+        font-size: 25px;
+        padding-bottom: 2px;
+    }
+    .blog-text h4 {
+        font-size: 12px;
+        padding-top: 11px;
+    }
+    .blog-text p a {
+        font-size: 15px;
+        padding-top: 0px;
+        line-height: 26px;
+    }
+    .blog-item {
+        margin-top: 10px;
+    }
+    #blog {
+        padding-top: 30px;
+        padding-bottom: 15px;
+    }
+    #touch {
+        padding-top: 28px;
+        padding-bottom: 15px;
+    }
+    .touch-heading p {
+        font-size: 25px;
+        padding-bottom: 0px;
+        padding-right: 15px;
+        line-height: 28px;
+    }
+    .touch-info a {
+        font-size: 12px;
+        line-height: 17px;
+    }
+    .touch-info i {
+        font-size: 20px;
+    }
+    .form-heading h4 {
+        font-size: 18px;
+        padding-bottom: 6px;
+        padding-top: 10px;
+    }
+    .map {
+        padding-top: 21px;
+    }
+    iframe{
+        width: 100%;
+        height: 280px;
+    }
+    #footer {
+        padding-top: 11px;
+        padding-bottom: 10px;
+    }
+    .social-icon i {
+        font-size: 21px;
+        padding-left: 11px;
+    }
+    .copyright-text p {
+        font-size: 15px;
+        line-height: 20px;
+        padding-top: 8px;
+    }
+
+
+}
